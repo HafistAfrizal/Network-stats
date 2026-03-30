@@ -41,15 +41,21 @@ Sebelum menjalankan utilitas ini, pastikan sistem Anda memenuhi persyaratan beri
 
 ---
 
-## 🚀 Instalasi & Penggunaan
+## 📥 Cara Download / Install
 
-Tidak ada instalasi _library_ eksternal yang dibutuhkan. Anda hanya perlu menyalin skrip ini ke sistem lokal Anda.
+Program ini tidak memerlukan proses instalasi yang rumit atau aplikasi tambahan. Anda hanya perlu mengunduh file utamanya:
 
-### Metode 1: Git Clone (Rekomendasi)
+**Cara 1: Download Langsung (Paling Mudah)**
 
-Buka Terminal / PowerShell Anda, dan jalankan perintah berikut:
+1. Scroll ke bagian atas halaman GitHub ini.
+2. Cari dan klik tombol hijau bertuliskan **`<> Code`**.
+3. Pilih menu **`Download ZIP`**.
+4. Setelah terunduh, klik kanan pada file ZIP tersebut dan pilih **`Extract All...`** (Ekstrak Semua).
+5. Buka folder hasil ekstrak, Anda akan menemukan file program bernama `NetStats_Pro.bat`.
+
+**Cara 2: Menggunakan Git Clone (Untuk Developer)**
+Buka Terminal atau Command Prompt, lalu ketikkan perintah ini:
 
 ```bash
-git clone [https://github.com/HafistAfrizal/Network-test.git](https://github.com/HafistAfrizal/Network-test.git)
-cd Network-test
+git clone [https://github.com/HafistAfrizal/Network-stats.git](https://github.com/HafistAfrizal/Network-stats.git)
 ```
