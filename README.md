@@ -7,8 +7,7 @@
 
 **Advanced Network Stats Monitor (ANSM)** adalah utilitas berbasis antarmuka baris perintah (_Command-Line Interface_ / CLI) yang ringan dan efisien. Dirancang khusus untuk lingkungan Windows, skrip ini mengumpulkan telemetri jaringan lokal, metrik latensi, dan _throughput_ data transmisi ke dalam satu dasbor _real-time_.
 
-> <img width="400" height="500" alt="Screenshot 2026-03-30 172927" src="https://github.com/user-attachments/assets/e5c78c19-901e-419c-a5b5-cf02a4348d93" />
-
+<img width="400" height="550" alt="Screenshot 2026-03-30 172927" src="https://github.com/user-attachments/assets/e5c78c19-901e-419c-a5b5-cf02a4348d93" />
 
 ---
 
