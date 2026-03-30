@@ -51,7 +51,7 @@ Program ini tidak memerlukan proses instalasi yang rumit atau aplikasi tambahan.
 2. Cari dan klik tombol hijau bertuliskan **`<> Code`**.
 3. Pilih menu **`Download ZIP`**.
 4. Setelah terunduh, klik kanan pada file ZIP tersebut dan pilih **`Extract All...`** (Ekstrak Semua).
-5. Buka folder hasil ekstrak, Anda akan menemukan file program bernama `NetStats_Pro.bat`.
+5. Buka folder hasil ekstrak, Anda akan menemukan file program bernama `network.bat`.
 
 **Cara 2: Menggunakan Git Clone (Untuk Developer)**
 Buka Terminal atau Command Prompt, lalu ketikkan perintah ini:
